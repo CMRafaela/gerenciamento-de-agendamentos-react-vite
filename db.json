@@ -1,0 +1,102 @@
+{
+  "schedules": [
+    {
+      "description": "Call com cliente XYZ",
+      "date": "2025-10-21",
+      "time": "14:31",
+      "responsible": "Marcos",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "description": "Refinamento do projeto",
+      "date": "2025-10-21",
+      "time": "15:00",
+      "responsible": "Mariana"
+    },
+    {
+      "id": 3,
+      "description": "Call com cliente XYZ",
+      "date": "2025-10-21",
+      "time": "14:30",
+      "responsible": "Marcos"
+    },
+    {
+      "id": 4,
+      "description": "Refinamento do projeto",
+      "date": "2025-10-21",
+      "time": "15:00",
+      "responsible": "Mariana"
+    },
+    {
+      "id": 5,
+      "description": "Call com cliente XYZ",
+      "date": "2025-10-21",
+      "time": "14:30",
+      "responsible": "Marcos"
+    },
+    {
+      "description": "teste",
+      "date": "2025-10-31",
+      "time": "13:35",
+      "responsible": "teste 2",
+      "id": 6
+    },
+    {
+      "description": "teste 3",
+      "date": "2025-10-24",
+      "time": "15:03",
+      "responsible": "rafaela",
+      "id": 7
+    },
+    {
+      "description": "Call com cliente XYZ",
+      "date": "2025-10-21",
+      "time": "14:31",
+      "responsible": "Marcos",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "description": "Refinamento do projeto",
+      "date": "2025-10-21",
+      "time": "15:00",
+      "responsible": "Mariana"
+    },
+    {
+      "id": 10,
+      "description": "Call com cliente XYZ",
+      "date": "2025-10-21",
+      "time": "14:30",
+      "responsible": "Marcos"
+    },
+    {
+      "id": 11,
+      "description": "Refinamento do projeto",
+      "date": "2025-10-21",
+      "time": "15:00",
+      "responsible": "Mariana"
+    },
+    {
+      "id": 12,
+      "description": "Call com cliente XYZ",
+      "date": "2025-10-21",
+      "time": "14:30",
+      "responsible": "Marcos"
+    },
+    {
+      "description": "teste 3",
+      "date": "2025-10-24",
+      "time": "15:03",
+      "responsible": "rafaela C",
+      "id": 14
+    },
+    {
+      "description": "teste 3",
+      "date": "2025-10-24",
+      "time": "15:03",
+      "responsible": "rafaela",
+      "id": 15
+    }
+  ]
+}
