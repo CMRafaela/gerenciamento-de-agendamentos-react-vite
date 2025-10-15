@@ -3,7 +3,8 @@
 Aplicação SPA para listar, criar, editar e excluir agendamentos, consumindo uma API simulada com json-server.
 O foco é avaliar chamadas assíncronas, estados de loading/erro/sucesso, validação de formulários e organização dos componentes seguindo Atomic Design.
 
-<img width="1532" height="842" alt="image" src="https://github.com/user-attachments/assets/f02017a4-ddc5-4f18-a080-a1cac9b7aa18" />
+<img width="1483" height="866" alt="image" src="https://github.com/user-attachments/assets/93f008ed-590e-4052-bf10-03b385fdcc12" />
+
 
 ### Tecnologias
 
